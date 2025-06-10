@@ -129,8 +129,8 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-	{ogg: "anakinbetrayal.ogg", name: "Neutron - Installation Music"},
-	{ogg: "somewhereonkamino.ogg", name: "Neutron - Installation Music"},
+	{ogg: "notimefnaffour.ogg", name: "Neutron - Installation Music"},
+	{ogg: "fnafmusic.ogg", name: "Neutron - Installation Music"},
 	{ogg: "clonewarsthem.ogg", name: "Neutron - Installation Music"},
 	{ogg: "starwarsmaintheme.ogg", name: "Neutron - Installation Music"},
 	{ogg: "letitfrozenparody.ogg", name: "Neutron - Installation Music"},
