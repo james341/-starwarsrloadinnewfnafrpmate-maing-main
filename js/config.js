@@ -131,9 +131,7 @@ var l_musicDisplay = true;
 var l_musicPlaylist = [
 	{ogg: "notimefnaffour.ogg", name: "Neutron - Installation Music"},
 	{ogg: "fnafmusic.ogg", name: "Neutron - Installation Music"},
-	{ogg: "clonewarsthem.ogg", name: "Neutron - Installation Music"},
-	{ogg: "starwarsmaintheme.ogg", name: "Neutron - Installation Music"},
-	{ogg: "letitfrozenparody.ogg", name: "Neutron - Installation Music"},
+	{ogg: "notimefnaffour.ogg", name: "Neutron - Installation Music"},
 ];
 
 // Random music order?
