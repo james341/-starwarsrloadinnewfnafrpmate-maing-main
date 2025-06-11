@@ -55,7 +55,7 @@ var l_bgVideo = true;
 // Just make sure they are using webm VP8 format 
 // (Place the videos in the backgrounds/videos folder)
 // (You can also use external URL)
-var l_background = "fnafggta.webm";
+var l_background = "videoplayback.webm";
 
 
 // (Image-background only)
