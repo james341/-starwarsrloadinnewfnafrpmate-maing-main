@@ -131,6 +131,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
 	{ogg: "notimefnaffour.ogg", name: "Neutron - Installation Music"},
+	{ogg: "lostconstellation.ogg", name: "Neutron - Installation Music"},
 	{ogg: "fnafmusic.ogg", name: "Neutron - Installation Music"},
 	{ogg: "notimefnaffour.ogg", name: "Neutron - Installation Music"},
 ];
